@@ -1,0 +1,656 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8">
+  <diagram name="Page-1" id="Mi6-yE2qVwHB5zHYBC6W">
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="859.94" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="680" />
+              <mxPoint x="840" y="680" />
+            </Array>
+            <mxPoint x="490" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="739.94" as="targetPoint" />
+            <mxPoint x="460" y="739.9399999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="739.94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-5" value="address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-4">
+          <mxGeometry x="-0.3302" y="1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="759.94" as="sourcePoint" />
+            <mxPoint x="520" y="759.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-7" value="valid_request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-6">
+          <mxGeometry x="0.2034" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-8" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="410" y="719.94" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="719.94" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="744.7" as="sourcePoint" />
+            <mxPoint x="410" y="744.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-11" value="cpu inputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-10">
+          <mxGeometry x="-0.2833" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="829.94" as="targetPoint" />
+            <mxPoint x="600" y="749.94" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="750" />
+              <mxPoint x="780" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-13" value="set index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-12">
+          <mxGeometry x="0.2194" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="813" y="750" as="targetPoint" />
+            <mxPoint x="600" y="729.94" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="790" y="730" />
+              <mxPoint x="790" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-15" value="Hit/Miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-14">
+          <mxGeometry x="0.487" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-16" value="Tag Compare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="714.94" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-17" value="Stop Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="850" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.329;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="760" as="targetPoint" />
+            <mxPoint x="841" y="749" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="750" />
+              <mxPoint x="1200" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-19" value="&lt;div&gt;prop_address&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-18">
+          <mxGeometry x="0.227" relative="1" as="geometry">
+            <mxPoint x="-113" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="890" />
+              <mxPoint x="600" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-21" value="do propagate write" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-20">
+          <mxGeometry x="-0.2196" relative="1" as="geometry">
+            <mxPoint x="-99" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-22" value="send request to ram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="729.94" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.005;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-8" target="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="730" as="targetPoint" />
+            <mxPoint x="450" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="670" />
+              <mxPoint x="854" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-24" value="write_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-23">
+          <mxGeometry x="-0.2649" y="1" relative="1" as="geometry">
+            <mxPoint x="-105" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="820" as="sourcePoint" />
+            <mxPoint x="600" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="820" />
+              <mxPoint x="820" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-26" value="do replace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-25">
+          <mxGeometry x="0.1172" y="1" relative="1" as="geometry">
+            <mxPoint x="-25" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1.003;exitY=0.837;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-29" target="vLvdCkl4RZaYLDGPKvzS-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="889.94" as="sourcePoint" />
+            <mxPoint x="640" y="949.94" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="778" y="820" />
+              <mxPoint x="910" y="820" />
+              <mxPoint x="910" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-28" value="do replace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-27">
+          <mxGeometry x="0.2333" y="1" relative="1" as="geometry">
+            <mxPoint x="-15" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-29" value="replace index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="800" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="820" as="targetPoint" />
+            <mxPoint x="600" y="729.9399999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="730" />
+              <mxPoint x="700" y="811" />
+              <mxPoint x="740" y="811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-31" value="Hit/Miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-30">
+          <mxGeometry x="0.487" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="760" as="targetPoint" />
+            <mxPoint x="880" y="770" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="770" />
+              <mxPoint x="1200" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-33" value="prop_cache_entry_valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-32">
+          <mxGeometry x="0.227" relative="1" as="geometry">
+            <mxPoint x="-93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="760" as="targetPoint" />
+            <mxPoint x="880" y="760" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-35" value="prop_write_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-34">
+          <mxGeometry x="0.227" relative="1" as="geometry">
+            <mxPoint x="-123" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="760" as="targetPoint" />
+            <mxPoint x="880" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="780" />
+              <mxPoint x="1200" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-37" value="prop_write_data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-36">
+          <mxGeometry x="0.227" relative="1" as="geometry">
+            <mxPoint x="-123" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-340" value="mem_outputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-36">
+          <mxGeometry x="0.7618" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="980" as="targetPoint" />
+            <mxPoint x="1119.9999999999998" y="979.48" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-39" value="data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-38">
+          <mxGeometry x="-0.1701" y="1" relative="1" as="geometry">
+            <mxPoint x="-31" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-40" value="output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="929.94" as="targetPoint" />
+            <mxPoint x="600" y="749.94" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="620" y="750" />
+              <mxPoint x="620" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-42" value="hit/miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-41">
+          <mxGeometry x="0.2555" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="919.94" as="targetPoint" />
+            <mxPoint x="600" y="729.9399999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="731" />
+              <mxPoint x="630" y="731" />
+              <mxPoint x="630" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-44" value="set index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-43">
+          <mxGeometry x="0.2579" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="980" as="targetPoint" />
+            <mxPoint x="1120" y="970" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="970" />
+              <mxPoint x="1200" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-46" value="hit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-45">
+          <mxGeometry x="-0.1701" y="1" relative="1" as="geometry">
+            <mxPoint x="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="880" as="sourcePoint" />
+            <mxPoint x="440" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-50" value="stop inputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-49">
+          <mxGeometry x="-0.2333" y="1" relative="1" as="geometry">
+            <mxPoint x="34" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-51" value="lru and cache entry update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="880" width="76.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="405.00000000000006" y="1040" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="424.91" y="1040" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.408;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-52" target="vLvdCkl4RZaYLDGPKvzS-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1060" as="sourcePoint" />
+            <mxPoint x="421" y="889.94" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.417;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1060" as="sourcePoint" />
+            <mxPoint x="920" y="1050" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-56" value="mem inputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-55">
+          <mxGeometry x="0.0982" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-57" value="Tag compare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="70" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-80" value="Stop Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-91" value="send request to ram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="20" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-163" value="replace index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450.00000000000006" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-165" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-52" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="940" as="sourcePoint" />
+            <mxPoint x="650" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="1080" />
+              <mxPoint x="930" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-166" value="mem data block" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-165">
+          <mxGeometry x="-0.2947" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-167" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.408;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-52" target="vLvdCkl4RZaYLDGPKvzS-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="1020" as="sourcePoint" />
+            <mxPoint x="930" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-168" value="mem valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-167">
+          <mxGeometry x="0.2382" relative="1" as="geometry">
+            <mxPoint x="-324" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-169" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.584;exitY=-0.011;exitDx=0;exitDy=0;entryX=0.399;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-52" target="vLvdCkl4RZaYLDGPKvzS-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1030" as="sourcePoint" />
+            <mxPoint x="680" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-170" value="mem address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-169">
+          <mxGeometry x="-0.4334" relative="1" as="geometry">
+            <mxPoint x="22" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-171" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.787;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vLvdCkl4RZaYLDGPKvzS-29" target="vLvdCkl4RZaYLDGPKvzS-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="870" as="sourcePoint" />
+            <mxPoint x="840" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-172" value="replace set index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-171">
+          <mxGeometry x="0.3298" y="1" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-173" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="936.25" y="830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="945" y="830" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-175" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="890" y="830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-176" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="898.75" y="830" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-181" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.142;entryY=-0.023;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="880" as="sourcePoint" />
+            <mxPoint x="1110" y="880.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-182" value="read_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-181">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="-10" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-203" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.711;entryY=-0.017;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="910" as="sourcePoint" />
+            <mxPoint x="1170" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-204" value="write_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-203">
+          <mxGeometry x="-0.3471" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="770" as="targetPoint" />
+            <mxPoint x="600" y="749.94" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="690" y="750" />
+              <mxPoint x="690" y="821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-206" value="set index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-205">
+          <mxGeometry x="0.2194" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-226" value="lru and cache entry update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="20" width="76.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-258" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.525;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1080" as="sourcePoint" />
+            <mxPoint x="1130" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-263" value="output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="530" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-306" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.90999999999997" y="719.94" as="sourcePoint" />
+            <mxPoint x="425" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-307" value="read_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-306">
+          <mxGeometry x="-0.1991" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-308" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="670" as="sourcePoint" />
+            <mxPoint x="500" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-310" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="680" as="sourcePoint" />
+            <mxPoint x="600" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-311" value="address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-310">
+          <mxGeometry x="-0.2089" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-312" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.425;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="900" as="sourcePoint" />
+            <mxPoint x="1035" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-313" value="address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-312">
+          <mxGeometry x="-0.3022" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-315" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="700" as="sourcePoint" />
+            <mxPoint x="330" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-316" value="clk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-315">
+          <mxGeometry x="-0.2905" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-318" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="720" as="sourcePoint" />
+            <mxPoint x="330" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-319" value="reset_n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-318">
+          <mxGeometry x="-0.0308" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-320" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="740" as="sourcePoint" />
+            <mxPoint x="330" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-321" value="addresss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-320">
+          <mxGeometry x="-0.1122" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-322" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="760" as="sourcePoint" />
+            <mxPoint x="330" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-323" value="read_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-322">
+          <mxGeometry x="-0.3262" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-324" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="779.94" as="sourcePoint" />
+            <mxPoint x="330" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-325" value="write_en" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-324">
+          <mxGeometry x="0.0087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-326" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="800" as="sourcePoint" />
+            <mxPoint x="330" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-327" value="write_data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-326">
+          <mxGeometry x="-0.0517" relative="1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-328" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1050" as="sourcePoint" />
+            <mxPoint x="330" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-329" value="mem_valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-328">
+          <mxGeometry x="-0.1616" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-330" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1070" as="sourcePoint" />
+            <mxPoint x="330" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-331" value="mem_data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-330">
+          <mxGeometry x="0.048" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-335" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="990" as="sourcePoint" />
+            <mxPoint x="1290" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="990" />
+              <mxPoint x="1200" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-336" value="miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-335">
+          <mxGeometry x="-0.1361" relative="1" as="geometry">
+            <mxPoint x="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-338" value="cpu_outputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vLvdCkl4RZaYLDGPKvzS-335">
+          <mxGeometry x="0.5254" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-341" value="&lt;div align=&quot;left&quot;&gt;// block for checking if address is in the cache or mem, hit -&amp;gt; cache, miss -&amp;gt; mem&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (valid_request) &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;check all cache entries cache[address.index];&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (Exist(cache == address[tag]) {&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;hit = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;miss = 0;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;set_index = (the index within the set with the correct tag)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (!Exist(cache == address[tag]) {&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;hit = 0;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;miss = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;set_index = 0;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="390" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-342" value="&lt;div align=&quot;left&quot;&gt;// block for sending propagating signals to mem instead of cache, propagates if miss and read_en, or miss, write_en, and cache entry to be replaced is dirty&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (miss)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (!write_en) // read_en, miss so we need to get entry from mem&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;prop_address = address;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_en = 0;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_cache_entry_valid = 1;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_data = 0;&lt;/span&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;else if (write_en &amp;amp;&amp;amp; cache[address.index].set[set_index].ctrl_bits.valid &amp;amp;&amp;amp; cache[address.index].set[set_index].ctrl_bits.dirty) // need to propagate dirty to cache&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;prop_address = address;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_en = write_en;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_cache_entry_valid = 1;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_data = &lt;/span&gt;cache[address.index].set[set_index].block[cache.offset]&lt;span style=&quot;white-space: pre;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;else  // dont propagate&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;prop_address = 0;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_en = 0;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_cache_entry_valid = 0;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prop_write_data = 0;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496.25" y="90" width="470" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-344" value="&lt;div align=&quot;left&quot;&gt;// updates the cache entry on hit and when mem sends back values of propagation on miss. Updates lru, valid and dirty as well.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (hit &amp;amp;&amp;amp; write_en)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[set_index] = write_data;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.valid = 1;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.dirty = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;// lru update&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;update_lru value = &lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[index].set[replace_set_index].ctrl_bits.lru&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;for all cache blocks in current set:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (c&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[index].set[ !&amp;nbsp;set_index].lru &amp;gt; update_lru value)&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.lru =&amp;nbsp; ache[index].set[replace_set_index].ctrl_bits.lru&amp;nbsp; - 1;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (miss)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (do_replace &amp;amp;&amp;amp; mem_valid)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;// replace entry corresponding to original address (mem request was validated)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[replace_set_index] = mem_data_block&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;// update the lru values&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[replace_set_index].ctrl_bits.lru = lru max;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.valid = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;// dirty bit&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (write_en)&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.dirty = 0;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;else&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;cache[index].set[set_index].ctrl_bits.dirty = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;// lru update&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;update_lru value = &lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[index].set[replace_set_index].ctrl_bits.lru&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;for all cache blocks in current set:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (c&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[index].set[ ! replace_set_index].lru &amp;gt; update_lru value)&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cache[index].set[replace_set_index].ctrl_bits.lru =&amp;nbsp; ache[index].set[replace_set_index].ctrl_bits.lru&amp;nbsp; - 1;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="140" width="620" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-346" value="&lt;div&gt;// block to stop the cache when either asking mem for values or writing dirty to mem&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if ((do_replace &amp;amp;&amp;amp; !mem_valid) || do_propagate_write)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;stop_cache = 1;&lt;/div&gt;&lt;div&gt;else&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;stop_cache = 0;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-349" value="&lt;div align=&quot;left&quot;&gt;// block for calculating what cache entry to replace&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;do_replace = miss;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (miss)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;check all valid bits;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[address.index].set[i].ctrl_bits.valid == 0)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;replace_set_index = 1;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;check all lru_values;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;cache[address.index].set[i]ctrl_bits.lru_bits== 0)&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;replace_set_index = 1;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-351" value="&lt;div align=&quot;left&quot;&gt;//outputs back to cpu&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;hit = hit&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;miss = miss&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;if (read_en)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if (miss &amp;amp;&amp;amp; mem_valid)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;data = mem_data[address.offset];&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;else if (hit)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;data = cache[address.index].set[replace_index].data[offset]&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="599.94" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vLvdCkl4RZaYLDGPKvzS-352" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vLvdCkl4RZaYLDGPKvzS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="1000" as="sourcePoint" />
+            <mxPoint x="900" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
